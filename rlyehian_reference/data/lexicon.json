@@ -1,0 +1,288 @@
+{
+  "schema_version": 1,
+  "source": {
+    "title": "JLDevOps/Rlyehian public fan lexicon",
+    "revision": "482bd14e19d6a25094af800e6e2a65836484d319",
+    "url": "https://github.com/JLDevOps/Rlyehian/blob/482bd14e19d6a25094af800e6e2a65836484d319/rlyehian/kadishtuor.csv",
+    "license": "MIT"
+  },
+  "entries": {
+    "agree": [
+      "athg"
+    ],
+    "amen": [
+      "y'hah"
+    ],
+    "answers": [
+      "ee"
+    ],
+    "anything": [
+      "nilgh'ri"
+    ],
+    "ask": [
+      "stell'bsna"
+    ],
+    "at": [
+      "llll"
+    ],
+    "await": [
+      "ilyaa"
+    ],
+    "beside": [
+      "llll"
+    ],
+    "body": [
+      "'bthnk"
+    ],
+    "born of": [
+      "hupadgh"
+    ],
+    "boundary": [
+      "ftaghu"
+    ],
+    "bring": [
+      "tharanak"
+    ],
+    "brotherhood": [
+      "chtenff"
+    ],
+    "call": [
+      "'ai",
+      "uln"
+    ],
+    "children": [
+      "gof'nn"
+    ],
+    "cohesion": [
+      "ehye"
+    ],
+    "come": [
+      "nog"
+    ],
+    "contact": [
+      "shtunggli"
+    ],
+    "contract": [
+      "athg"
+    ],
+    "control": [
+      "wgah'n"
+    ],
+    "cross over": [
+      "ch'"
+    ],
+    "crowd": [
+      "uh'e"
+    ],
+    "cult": [
+      "ron"
+    ],
+    "darkness": [
+      "n'ghft"
+    ],
+    "death": [
+      "n'gha"
+    ],
+    "dream": [
+      "lw'nafh"
+    ],
+    "essence": [
+      "'bthnk"
+    ],
+    "eternity": [
+      "syha'h"
+    ],
+    "everything": [
+      "nilgh'ri"
+    ],
+    "exchange": [
+      "k'yarnak"
+    ],
+    "expect": [
+      "ilyaa"
+    ],
+    "father": [
+      "gnaiih"
+    ],
+    "finish spell": [
+      "uaaah"
+    ],
+    "followers": [
+      "hrii"
+    ],
+    "go": [
+      "bug"
+    ],
+    "grant": [
+      "goka"
+    ],
+    "head": [
+      "nw"
+    ],
+    "here": [
+      "geb"
+    ],
+    "heretic": [
+      "hlirgh"
+    ],
+    "hidden": [
+      "r'luh"
+    ],
+    "i": [
+      "ya"
+    ],
+    "integrity": [
+      "ehye"
+    ],
+    "invite": [
+      "sll'ha"
+    ],
+    "know": [
+      "kadishtu"
+    ],
+    "larva": [
+      "grah'n"
+    ],
+    "later": [
+      "ep"
+    ],
+    "lift spell": [
+      "zhro"
+    ],
+    "lost one": [
+      "grah'n"
+    ],
+    "mind": [
+      "lloig"
+    ],
+    "mother": [
+      "fhalma"
+    ],
+    "notify": [
+      "shtunggli"
+    ],
+    "now": [
+      "hai"
+    ],
+    "on pain of": [
+      "li'hee"
+    ],
+    "pact": [
+      "s'uhn"
+    ],
+    "people": [
+      "uh'e"
+    ],
+    "pit": [
+      "ebumma"
+    ],
+    "place": [
+      "nw"
+    ],
+    "pray for": [
+      "stell'bsna"
+    ],
+    "pray to": [
+      "vulgtlagin"
+    ],
+    "prayer": [
+      "vulgtm"
+    ],
+    "priest": [
+      "hafh'drn"
+    ],
+    "promise": [
+      "tharanak"
+    ],
+    "psyche": [
+      "lloig"
+    ],
+    "question": [
+      "kn'a"
+    ],
+    "realm of darkness": [
+      "shogg"
+    ],
+    "realm of dreams": [
+      "shagg"
+    ],
+    "realm of earth": [
+      "shugg"
+    ],
+    "realm of information": [
+      "phlegeth"
+    ],
+    "religion": [
+      "ron"
+    ],
+    "reside in": [
+      "wgah'n"
+    ],
+    "secret": [
+      "r'luh"
+    ],
+    "share": [
+      "k'yarnak"
+    ],
+    "share space": [
+      "sgn'wahl"
+    ],
+    "sign": [
+      "athg"
+    ],
+    "skin": [
+      "ftaghu"
+    ],
+    "sleep": [
+      "fhtagn"
+    ],
+    "society": [
+      "chtenff"
+    ],
+    "soul": [
+      "orr'e"
+    ],
+    "spirit": [
+      "orr'e"
+    ],
+    "summon": [
+      "uln"
+    ],
+    "summoner": [
+      "hafh'drn"
+    ],
+    "then": [
+      "ep"
+    ],
+    "threshold": [
+      "nglui"
+    ],
+    "transmit": [
+      "lw'nafh"
+    ],
+    "travel": [
+      "ch'"
+    ],
+    "tremble": [
+      "throd"
+    ],
+    "understand": [
+      "kadishtu"
+    ],
+    "visit": [
+      "ooboshu"
+    ],
+    "wait": [
+      "fhtagn"
+    ],
+    "wish": [
+      "gotha"
+    ],
+    "with hai": [
+      "ep"
+    ],
+    "worthless": [
+      "mnahn'"
+    ]
+  }
+}
